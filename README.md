@@ -37,10 +37,11 @@ Full-stack developer with a strong passion for both front-end and back-end devel
 <br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/kateblbn/Dictionary-App-API-React" align="center"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kateblbn&repo=Dictionary-App-API-React&title_color=a855f7&text_color=3382ed&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/kateblbn/weather-app-API" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kateblbn&repo=weather-app-API&title_color=a855f7&text_color=3382ed&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
-<br /><br /><br /><br /><br /> <br /><br /> 
+<br /><br /><br /><br /><br /> <br /><br /> <br /> <br />
 
 
 <p align="center" >
+ <br /> 
   <b> 🫶 Socials</b>
   </p>
 
