@@ -1,4 +1,4 @@
- 💻 Full-Stack Developer | Security Enthusiast | Problem Solver
+ 💻 Full-Stack Developer | Security Engineer | Problem Solver
 ---------------------------------------
 
 🚀 Passionate full-stack developer with expertise in both front-end and back-end development. I have a deep interest in security threat technologies, including <b> ISO 27001, NIST, and the MITRE ATT&CK Framework </b>, ensuring secure and scalable applications.
