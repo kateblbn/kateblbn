@@ -63,26 +63,34 @@
 
    <br /> 
 
-<div width="100%" align="center"><a href="https://github.com/kateblbn/Trending-TTPs" align="center"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kateblbn&repo=Trending-TTPs&title_color=a855f7&text_color=3382ed&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/kateblbn/BMI-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kateblbn&repo=BMI-App&title_color=a855f7&text_color=3382ed&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br />
-
+<div width="100%" align="center"><a href="https://github.com/kateblbn/Trending-TTPs" align="center"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kateblbn&repo=Trending-TTPs&title_color=a855f7&text_color=3382ed&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/kateblbn/BMI-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kateblbn&repo=BMI-App&title_color=a855f7&text_color=3382ed&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
 <br /><br />
 
+x
+
 <div width="100%" align="center"><a href="https://github.com/kateblbn/Dictionary-App-API-React" align="center"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kateblbn&repo=Dictionary-App-API-React&title_color=a855f7&text_color=3382ed&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/kateblbn/weather-app-API" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kateblbn&repo=weather-app-API&title_color=a855f7&text_color=3382ed&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
-<br /><br /><br /><br /><br /> <br /><br /> 
+<br /><br />
+<br /><br /><br /> <br /><br /> <br /><br />
+
+<br /><br />
+<br /> 
+ <br /> 
 
 <hr/>
+ <br /> 
+ <br /> 
 <p align="center" >
  <br /> 
   <b> 📢 Let's Connect!</b>
   </p>
-
-🤝 Always open to <b>networking, collaborations, and exciting projects>/b>!
+ <br /> 
+🤝 Always open to <b>networking, collaborations, and exciting projects</b>!
  <br />  <br /> 
 
 📧 Email: [kate.blbn@gmail.com](mailto:kate.blbn@gmail.com)  <br /> 
 🌐 Portfolio: [My Portfolio](http://kateblbn.github.io/portfolio/)  <br /> 
 💼 GitHub: [GitHub](https://github.com/kateblbn)  <br /> 
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/katerina-balabushkina/)  <br /> 
+➰LinkedIn: [LinkedIn](https://www.linkedin.com/in/katerina-balabushkina/)  <br /> 
  <br />  <br /> 
 💬 Let's chat about tech, security, and innovation!
  <br />  <br /> 
